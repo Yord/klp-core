@@ -1,6 +1,6 @@
 TODO: klp-core teaser
 
-:horse:`pli-core` is a plugin with basic operations for `klp` (Kelpie), the small, fast, and magical command-line data processor.
+:horse:`klp-core` is a plugin with basic operations for `klp` (Kelpie), the small, fast, and magical command-line data processor.
 
 See the [`klp` github repository][klp] for more details!
 
