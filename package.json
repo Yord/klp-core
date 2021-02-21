@@ -1,7 +1,7 @@
 {
   "name": "klp-core",
-  "version": "0.1.0",
-  "description": "klp-core",
+  "version": "0.1.1",
+  "description": "A plugin with basic operations for klp (Kelpie), the small, fast, and magical command-line data processor.",
   "keywords": [
     "klp",
     "kelpie",
