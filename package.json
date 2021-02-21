@@ -35,7 +35,7 @@
     "test": "jest --ci --coverage --collectCoverageFrom 'src/**/*.js' --logHeapUsage --passWithNoTests"
   },
   "engines": {
-    "node": ">=8.3.0"
+    "node": ">=10.0.0"
   },
   "private": false,
   "devDependencies": {
